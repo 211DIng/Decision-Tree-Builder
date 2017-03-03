@@ -2,7 +2,7 @@ from D_Tree import *
 import sys
 import csv
 
-# Use processed version of dataset - golf_processed.csv, car_processed.csv
+# Use processed version of dataset where labels are mapped to integer values
 
 def main():
 
