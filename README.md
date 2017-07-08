@@ -64,6 +64,10 @@ For example, the output produced by the above example dataset is the following -
 		|--'Label 1'
 ```
 
+This output can be visualized like as follows where 'att' stands for attribute and 'lab' stands for label --
+
+![Output of example dataset](https://github.com/nikw92/Decision-Tree-Builder/blob/master/ex_tree.png)
+
 DTree_Driver.py is the driver program that parses a specified input csv file and write the produced decision tree to a specified output text file.
 
 Usage:
